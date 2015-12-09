@@ -1,5 +1,4 @@
 language: node_js
-abcd:
 build_image: siddarthan/nodejs-hello-world
 
 # Version number
