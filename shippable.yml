@@ -1,5 +1,5 @@
 language: node_js
-build_image: siddarthan/u14nod
+build_image: siddarthan/u14nodpls
 
 # Version number
 node_js:
