@@ -6,7 +6,7 @@ node_js:
   - 0.12
 
 install:
-  - source ~/.nvm/nvm.sh && nvm install 4.0.0
+  - source ~/.nvm/nvm.sh && nvm install 4.2.2
   - node --version
   - npm install
 
